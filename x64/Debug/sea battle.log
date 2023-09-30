@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Games\ \prj\vs c++\sea battle\main.cpp(67,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sea battle.vcxproj -> D:\Games\ \prj\vs c++\sea battle\x64\Debug\sea battle.exe
